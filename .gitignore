@@ -1,0 +1,16 @@
+# production code
+blog-list/build/
+bloglist-frontend/build
+
+# dependecies
+blog-list/node_modules/
+bloglist-frontend/node_modules
+country-hook/node_modules
+routed-anecdotes/node_modules
+ultimate-hooks/node_modules
+
+# secrets
+blog-list/.env
+
+#divers
+bloglist-frontend/.vscode
